@@ -72,4 +72,5 @@ The system must provide the following capabilities:
 
 ---
 
-*Next phase: [Feasibility Study](02-feasibility-study.md)*
+**Next phase: [Feasibility Study](02-feasibility-study.pdf)**
+
