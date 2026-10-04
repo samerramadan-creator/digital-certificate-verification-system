@@ -5,17 +5,13 @@
 | **Project** | Digital Certificate Verification System |
 | **Course** | System Analysis |
 | **Institution** | Faculty of Computers and Information, Menoufia University |
-| **Prepared by** | Samer |
-| **Document** | System Request (Phase 2 of the SRS roadmap) |
-| **Status** | Draft v1.0 |
+| **Prepared by** | Samer, Abdelfatah, Yehia |
 
 ---
 
 ## 1. Project Sponsor
 
-**Faculty of Computers and Information, Menoufia University** (Faculty Administration and Student Affairs).
-
-The sponsor is the body that issues graduation certificates. It provides the funding, the official graduate records, and the institutional support the system needs.
+**Faculty of Computers and Information, Menoufia University** 
 
 ---
 
@@ -36,11 +32,11 @@ The system must provide the following capabilities:
 
 | ID | Requirement |
 |----|-------------|
-| BR-1 | Issue a digital certificate record for each graduate, with a unique verification code and a QR code. |
-| BR-2 | Provide a public verification page where any party (employer, university, agency) can verify a certificate by entering its code or scanning its QR code. |
-| BR-3 | Provide an admin dashboard for Student Affairs staff to add, update, and revoke certificates. |
-| BR-4 | Keep an audit log of all verification attempts and administrative actions. |
-| BR-5 | Protect graduate data and prevent unauthorized modification of certificate records. |
+| 1 | Issue a digital certificate record for each graduate, with a unique verification code and a QR code. |
+| 2 | Provide a public verification page where any party (employer, university, agency) can verify a certificate by entering its code or scanning its QR code. |
+| 3 | Provide an admin dashboard for Student Affairs staff to add, update, and revoke certificates. |
+| 4 | Keep an audit log of all verification attempts and administrative actions. |
+| 5 | Protect graduate data and prevent unauthorized modification of certificate records. |
 
 ---
 
@@ -72,5 +68,5 @@ The system must provide the following capabilities:
 
 ---
 
-**Next phase: [Feasibility Study](02-feasibility-study.pdf)**
+**Feasibility Study : [PDF](docs/02-feasibility-study.pdf) · [Excel](docs/02-feasibility-study.**
 
