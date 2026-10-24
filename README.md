@@ -12,7 +12,7 @@
 
 ## ⚠️ Current Problems
 
-1. Slow manual verification (paper letters and phone calls)
+1. Slow manual verification 
 2. Paper certificates are easy to forge
 3. Heavy workload on Student Affairs staff
 4. No central digital record of certificates
@@ -30,8 +30,8 @@
 
 | # | Phase | File |
 |---|-------|------|
-| 1 | System Request | [system-request.md](docs/01-system-request.md) |
-| 2 | Feasibility Study | [PDF](docs/02-feasibility-study.pdf) · [Excel](docs/02-feasibility-study.xlsx) |
+| 1 | System Request | [system-request](docs/01-system-request.md) |
+| 2 | Feasibility Study | [md](docs/02-feasibility-study.md) · [Excel](docs/02-feasibility-study.xlsx) |
 
 
 ---
