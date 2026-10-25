@@ -30,8 +30,9 @@
 
 | # | Phase | File |
 |---|-------|------|
-| 1 | System Request | [system-request](docs/01-system-request.md) |
-| 2 | Feasibility Study | [md](docs/02-feasibility-study.md) · [Excel](docs/02-feasibility-study.xlsx) |
+| 1 | System Request | [system-request](docs/planning/01-system-request.md) |
+| 2 | Feasibility Study | [md](docs/planning/feasibility_study/02-feasibility-study.md) · [Excel](docs/planning/feasibility_study/02-feasibility-study.xlsx) |
+| 3 | Project Plan | [md](docs/planning/project_plan/03-pert-and-gantt-charts.md) · [Word](docs/planning/project_plan/03-pert-and-gantt-charts.docx) · [PDF](docs/planning/project_plan/03-pert-and-gantt-charts.pdf) |
 
 
 ---

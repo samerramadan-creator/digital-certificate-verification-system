@@ -68,5 +68,5 @@ The system must provide the following capabilities:
 
 ---
 
-**Feasibility Study : [md](02-feasibility-study.md)  |  [Excel](02-feasibility-study.xlsx)**
+**Feasibility Study : [md](feasibility_study/02-feasibility-study.md)  |  [Excel](feasibility_study/02-feasibility-study.xlsx)**
 
