@@ -32,8 +32,10 @@
 |---|-------|------|
 | 1 | System Request | [system-request](docs/planning/01-system-request.md) |
 | 2 | Feasibility Study | [md](docs/planning/feasibility_study/02-feasibility-study.md) · [Excel](docs/planning/feasibility_study/02-feasibility-study.xlsx) |
-| 3 | Project Plan | [md](docs/planning/project_plan/03-pert-and-gantt-charts.md) · [Word](docs/planning/project_plan/03-pert-and-gantt-charts.docx) · [PDF](docs/planning/project_plan/03-pert-and-gantt-charts.pdf) |
-
+| 3 | Project Plan -> methodology | [md](docs/planning/project_plan/methodology/methodology.md) · [Word](docs/planning/project_plan/methodology/methodology.docx) · [PDF](docs/planning/project_plan/methodology/methodology.pdf) |
+| 4 | Project Plan -> time estimation | [md](docs/planning/project_plan/time-estimation/time-estimation-and-task-identification.md) · [Word](docs/planning/project_plan/time-estimation/time-estimation-and-task-identification.docx) · [PDF](docs/planning/project_plan/time-estimation/time-estimation-and-task-identification.pdf) |
+| 5 | Project Plan -> pert, gantt charts | [md](docs/planning/project_plan/pert-gantt-charts/planning-pert-gantt-chart.md) · [Word](docs/planning/project_plan/pert-gantt-charts/planning-pert-gantt-chart.docx) · [PDF](docs/planning/project_plan/pert-gantt-charts/planning-pert-gantt-chart.pdf) |
+| 6 | Project Plan -> the three tasks | [md](docs/planning/project_plan/solution-of-the-three-tasks/3task-pert-and-gantt-charts.md) · [Word](docs/planning/project_plan/solution-of-the-three-tasks/3task-pert-and-gantt-charts.docx) · [PDF](docs/planning/project_plan/solution-of-the-three-tasks/3task-pert-and-gantt-charts.pdf) |
 
 ---
 
